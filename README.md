@@ -1,2 +1,2 @@
 # batalha_naval
-Batalha Naval programado em Java sem interface gráfica
+Batalha naval programado em Java sem interface gráfica.
